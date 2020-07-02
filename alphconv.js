@@ -38,33 +38,52 @@ alph["Н"] = "N";
 alph["н"] = "n";
 alph["Ң"] = "Ŋ";
 alph["ң"] = "ŋ";
-alph[""] = "";
-alph[""] = "";
-alph[""] = "";
-var x = person.length;     // person.length will return 0
+alph["О"] = "O";
+alph["о"] = "o";
+alph["Ө"] = "Ö";
+alph["ө"] = "ö";
+alph["П"] = "P";
+alph["п"] = "p";
+alph["Р"] = "R";
+alph["р"] = "r";
+alph["С"] = "S";
+alph["с"] = "s";
+alph["Т"] = "T";
+alph["т"] = "t";
+alph["У"] = "U";
+alph["у"] = "u";
+alph["Ұ"] = "U";
+alph["ұ"] = "u";
+alph["Ү"] = "Ü";
+alph["ү"] = "ü";
+alph["Ф"] = "F";
+alph["ф"] = "f";
+alph["Х"] = "H";
+alph["х"] = "h";
+alph["Һ"] = "H";
+alph["һ"] = "h";
+alph["Ц"] = "C";
+alph["ц"] = "c";
+alph["Ч"] = "Ç";
+alph["ч"] = "ç";
+alph["Ш"] = "Ş";
+alph["ш"] = "ş";
+alph["Щ"] = "Şç";
+alph["щ"] = "şç";
+alph["Ъ"] = "\""; //tricky
+alph["ъ"] = "\"";
+alph["Ы"] = "Y";
+alph["ы"] = "y";
+alph["І"] = "İ";
+alph["і"] = "i";
+alph["Ь"] = "\'"; //careful
+alph["ь"] = "\'";
+alph["Э"] = "E";
+alph["э"] = "e";
+alph["Ю"] = "Yu";
+alph["ю"] = "yu";
+alph["Я"] = "Ya";
+alph["я"] = "ya";
+var x = alpha.length;     // alph.length will return 0
 var y = person[0];
-//still needs to be completed
 //the opposite also needs to be made
-О O
-о o
-
-Ө Ö
-ө ö
-
-П P
-п p
-
-Р R
-р r
-
-С S
-с s
-
-Т T
-т t
-
-У U
-у u
-
-Ұ U
-ұ u
