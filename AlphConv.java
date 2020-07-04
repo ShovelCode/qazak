@@ -50,23 +50,14 @@ alph.put("Р", "R");
 alph.put("р", "r");
 alph.put("С", "S");
 alph.put("с", "s");
-alph.put("", "");
-alph.put("", ""); 
-alph.put("", "");
-alph.put("", "");
-alph.put("", "");
-alph.put("", "");
+alph.put("Т", "T");
+alph.put("т", "t"); 
+alph.put("У", "U");
+alph.put("у", "u");
+alph.put("Ұ", "U");
+alph.put("ұ", "u");
     
 /*
-Т T
-т t
-
-У U
-у u
-
-Ұ U
-ұ u
-
 Ү Ü
 ү ü
 
