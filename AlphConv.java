@@ -113,16 +113,14 @@ alph.put("", "");
 я ya
 */
 System.out.println("The Size of alph is : " + alph.size());
-// Remove an element from the HashMap
-capitals.remove("United Kingdom");
 // To display size of the hashtmap
 System.out.println("The Size of alph Map is : " + alph.size());
 // Check the existence of key in the Hashmap
 String key = ""; //put cyrillic letter here
-if (capitals.containsKey( key )) {
+if (alph.containsKey( key )) {
 System.out.println("The Latin of " + key + " is: " + alph.get( key ));
 } else {
-System.out.println("There is no entry for the capital of " + key);
+System.out.println("There is no entry for the Latin form of " + key);
 } //end else
 } //end main method
 } //end class definition of Demo
