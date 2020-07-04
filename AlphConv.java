@@ -6,74 +6,58 @@ alph.put("А", "A");
 alph.put("а", "a");
 alph.put("Ә", "Ä");
 alph.put("ә", "ä");
+alph.put("Б", "B");
+alph.put("б", "b");
+alph.put("В", "V");
+alph.put("в", "v");
+alph.put("Г", "G");
+alph.put("г", "v");
+alph.put("Ғ", "Ğ");
+alph.put("ғ", "ğ");
+alph.put("Д", "D");
+alph.put("д", "d");
+alph.put("Е", "E");
+alph.put("е", "e");
+alph.put("Ё", "Yo");
+alph.put("ё", "yo");
+alph.put("Ж", "Zh");
+alph.put("ж", "zh");
+alph.put("З", "Z");
+alph.put("з", "z");
+alph.put("И", "I");
+alph.put("и", "i");
+alph.put("Й", "Y");
+alph.put("й", "y");
+alph.put("К", "K");
+alph.put("к", "k");
+alph.put("Қ", "Q");
+alph.put("қ", "q");
+alph.put("Л", "L");
+alph.put("л", "l");
+alph.put("М", "M");
+alph.put("м", "m");
+alph.put("Н", "N");
+alph.put("н", "n");
+alph.put("Ң", "Ŋ");
+alph.put("ң", "ŋ");
+alph.put("О", "O");
+alph.put("о", "o");
+alph.put("Ө", "Ö");
+alph.put("ө", "ö");
+alph.put("П", "P");
+alph.put("п", "p");
+alph.put("Р", "R");
+alph.put("р", "r");
+alph.put("С", "S");
+alph.put("с", "s");
+alph.put("", "");
+alph.put("", ""); 
+alph.put("", "");
+alph.put("", "");
+alph.put("", "");
+alph.put("", "");
     
 /*
-Б B
-б b
-
-В V
-в v
-
-Г G
-г g
-
-Ғ Ğ
-ғ ğ
-
-Д D
-д d
-
-Е E
-е e
-
-Ё Yo
-ё yo
-
-Ж Zh
-ж zh
-
-З Z
-з z
-
-И I
-и i
-
-Й Y
-й y
-
-К K
-к k
-
-Қ Q
-қ q
-
-Л L
-л l
-
-М M
-м m
-
-Н N
-н n
-
-Ң Ŋ
-ң ŋ
-
-О O
-о o
-
-Ө Ö
-ө ö
-
-П P
-п p
-
-Р R
-р r
-
-С S
-с s
-
 Т T
 т t
 
